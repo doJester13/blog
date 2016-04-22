@@ -7,22 +7,22 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: My two cents on Android
+title: "My two cents on Android"
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: My two cents on Android
+      title: "My two cents on Android"
 
 description: 
-author: 
-  name: Erik
-  email: minarini.work@gmail.com
-  github: doJester13
-  twitter: doJester13
-  bio: Solo questo!
+author: "Erik Minarini"
+  name: "Erik"
+  email: "minarini.work@gmail.com"
+  github: "doJester13"
+  twitter: "doJester13"
+  bio: "Solo questo!"
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
@@ -32,7 +32,7 @@ tags_path: tags.html
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
-BASE_PATH: 
+BASE_PATH: /blog
 
 gems:
   - jekyll-paginate
