@@ -1,5 +1,9 @@
-This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
+# spaghetti.ga
+Based of Jekyll default theme and redesign again by me.<br>
+Feel free to use this theme :^)
+<br><br>
+But please don't try to copy anything from my article :p
 
-### [Demo and Documentation](https://adueck.github.io/good-clean-read)
 
-Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+# License
+MIT
