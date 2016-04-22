@@ -1,9 +1,7 @@
-# spaghetti.ga
-Based of Jekyll default theme and redesign again by me.<br>
-Feel free to use this theme :^)
-<br><br>
-But please don't try to copy anything from my article :p
+# Kiko
 
+[Kiko](http://github.com/gfjaru/Kiko) is a theme for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
 
 # License
-MIT
+
+Released under MIT License.
