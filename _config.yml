@@ -14,14 +14,14 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: My two cents on Android
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  name: Erik Minarini
+  email: minarini.work@gmail.com
+  github: doJester13
+  twitter: doJester13
   pinterest: asd123
   linkedin: asd123
   bio: Your stylish, minimalist theme!
